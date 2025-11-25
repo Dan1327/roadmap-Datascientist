@@ -10,4 +10,4 @@ Ce repo contient mes projets, analyses, notebooks et dashboards.
 - /dashboards : Power BI / Tableau
 
 ## Roadmap en cours
-Je suis actuellement la roadmap Data Scientist Junior (12 semaines).
+
